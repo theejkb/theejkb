@@ -7,11 +7,8 @@
 I'm 23 years old. I'm student @YnovCampus in Lyon. I am at the end of my master's degree.  
 Web developer. Blockchain enthusiast.   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)
-
-📩 Contact me : 
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
 
 
 ## Technologies I use, or that I used :
@@ -58,9 +55,11 @@ Web developer. Blockchain enthusiast.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
+![github contribution grid snake animation](https://raw.githubusercontent.com/theejkb/theejkb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/theejkb/theejkb/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-
-
-
+## 📩 Contact me 
+<p>
+  <a target="_blank"href="https://www.linkedin.com/in/stevennaaq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/stevennaaq"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:stevencopy@hotmail.fr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
