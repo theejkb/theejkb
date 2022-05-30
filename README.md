@@ -55,8 +55,11 @@ Web developer. Blockchain enthusiast.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb)](https://github.com/anuraghazra/github-readme-stats)  
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
-![]https://dcbadge.vercel.app/api/shield/628299119479226381)
+
+
 
 
 
