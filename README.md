@@ -56,6 +56,7 @@ Web developer. Blockchain enthusiast.
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
+![]https://dcbadge.vercel.app/api/shield/628299119479226381)
 
 
 
