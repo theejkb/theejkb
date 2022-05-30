@@ -7,6 +7,11 @@
 I'm 23 years old. I'm student @YnovCampus in Lyon. I am at the end of my master's degree.  
 Web developer. Blockchain enthusiast.   
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)
+
+📩 Contact me : 
+
+
 
 ## Technologies I use, or that I used :
 
@@ -46,7 +51,7 @@ Web developer. Blockchain enthusiast.
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-	![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 - Design : 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -54,8 +59,9 @@ Web developer. Blockchain enthusiast.
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
 
