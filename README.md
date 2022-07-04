@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/NaaQ"><img src="https://api.daily.dev/devcards/4304d0d09a094065a175a0733333dd65.png?r=n38" width="300" alt="Steven Copy's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/theejkb/theejkb/blob/main/devcard.svg" width="200" alt="Theejkb Dev Card"/></a>
 
 ### Hi, I'm NaaQ 👋  
 
