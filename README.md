@@ -8,8 +8,7 @@ I'm 23 years old. I'm student @YnovCampus in Lyon. I am at the end of my master'
 Web developer. Blockchain enthusiast.   
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/theejkb/theejkb/blob/main/devcard.svg" width="300" alt="Theejkb Dev Card"/></a>
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
 
 
@@ -63,3 +62,5 @@ Web developer. Blockchain enthusiast.
   <a target="_blank"href="https://twitter.com/stevennaaq"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:stevencopy@hotmail.fr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/theejkb/theejkb/blob/main/devcard.svg" width="300" alt="Theejkb Dev Card"/></a>
