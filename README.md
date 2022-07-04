@@ -60,7 +60,7 @@ Web developer. Blockchain enthusiast.
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/stevennaaq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/stevennaaq"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:stevencopy@hotmail.fr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:stevencopy@hotmail.fr?subject=Hello%20NaaQ,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/theejkb/theejkb/blob/main/devcard.svg" width="300" alt="Theejkb Dev Card"/></a>
