@@ -1,4 +1,4 @@
-### Hi, I'm NaaQ 👋  
+### Hi, I'm Steven "NaaQ"👋  
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=Plastic&logo=windows&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=Plastic&logo=Brave&logoColor=white)
