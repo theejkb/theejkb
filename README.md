@@ -7,6 +7,8 @@
 I'm 23 years old. I'm student @YnovCampus in Lyon. I am at the end of my master's degree.  
 Web developer. Blockchain enthusiast.   
 
+![Dev Card](https://api.daily.dev/devcards/4304d0d09a094065a175a0733333dd65.png?r=2ff) 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
 
