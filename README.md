@@ -4,8 +4,7 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=Plastic&logo=Brave&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=Plastic&logo=bitcoin&logoColor=white) 
 
-I'm 23 years old. I'm student @YnovCampus in Lyon. I am at the end of my master's degree.  
-Web developer. Blockchain enthusiast.   
+I'm 23 years old. I'm actually working at Axopen as Fullstack Dev.  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)  
