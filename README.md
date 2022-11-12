@@ -61,6 +61,3 @@ I'm 24 years old. I'm actually working at Axopen as Fullstack Dev.
   <a target="_blank"href="https://twitter.com/stevennaaq"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:stevencopy@hotmail.fr?subject=Hello%20NaaQ,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-  
-<img src="https://user-images.githubusercontent.com/45352533/182712545-803a2263-2f1c-463b-af8e-3a28c92e58e6.gif"/>
-
