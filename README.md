@@ -8,7 +8,7 @@ I'm 24 years old. I'm actually working at Axopen as Fullstack Dev.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)  
-## ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theejkb.visitor-badge&left_text=Viewers) -->
 
 
 ## Technologies I use, or that I used :
