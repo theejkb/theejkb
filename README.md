@@ -4,7 +4,7 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=Plastic&logo=Brave&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=Plastic&logo=bitcoin&logoColor=white) 
 
-I'm 24 years old. I'm actually working at Axopen as Fullstack Dev.  
+I'm 25 years old. I'm actually working at Sogelink as Development Engineer.  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)  
@@ -35,6 +35,8 @@ I'm 24 years old. I'm actually working at Axopen as Fullstack Dev.
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-%23000000.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 - Database : 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
