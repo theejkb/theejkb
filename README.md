@@ -4,7 +4,7 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=Plastic&logo=Brave&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=Plastic&logo=bitcoin&logoColor=white) 
 
-I'm 25 years old. I'm actually working at Sogelink as Development Engineer.  
+I'm 27 years old. I'm actually working at Inelys as Fullstack Developper.  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=radical&count_private=true)  
