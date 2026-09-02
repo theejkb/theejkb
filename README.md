@@ -49,7 +49,6 @@ I build **end-to-end TypeScript products**: React / Next.js and Angular front-en
 | **[Shiiift](https://shiiift.ai)** | LLM brand-visibility monitoring SaaS — multi-model crawling, scoring, content generation. Solo-built from scratch. | Next.js · NestJS · PostgreSQL · AWS |
 | **[Mafia-Story-Generator](https://github.com/theejkb/Mafia-Story-Generator)** | Generates a personal story + image for each of 5 555 NFTs of a MultiversX collection. | TypeScript · MultiversX SDK |
 | **[elrond-treasure-hunt](https://github.com/theejkb/elrond-treasure-hunt)** | Event app rallying 24 Web3 projects — users hunt hidden words across platforms to unlock rewards. | TypeScript · MultiversX |
-| **SNR Covering** | Marketing site for an automotive wrapping shop: Next.js App Router, Tailwind v4, JSON-LD, Server Actions + Zod + Resend contact form. | Next.js · Tailwind |
 
 <br/>
 
