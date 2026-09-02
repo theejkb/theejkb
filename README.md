@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Steven+%22NaaQ%22+%F0%9F%91%8B;Senior+Fullstack+Engineer+%C2%B7+TypeScript;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+NestJS+%C2%B7+Java;I+ship+AI+agents+into+real+products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Steven+%F0%9F%91%8B;Senior+Fullstack+Engineer+%C2%B7+TypeScript;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+NestJS+%C2%B7+Java;I+ship+AI+agents+into+real+products" alt="Typing SVG" /></a>
 
 <br/>
 
