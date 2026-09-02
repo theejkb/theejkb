@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/stevencopy.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stevencopy.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevennaaq/)
-[![X](https://img.shields.io/badge/@stevennaaq-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/stevennaaq)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevencopy@hotmail.fr?subject=Hello%20Steven%2C%20from%20GitHub)
 
 </div>
