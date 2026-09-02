@@ -67,22 +67,8 @@ I build **end-to-end TypeScript products**: React / Next.js and Angular front-en
 <img src="profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution calendar" />
 <img src="profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D contribution calendar" />
 
-<img src="https://raw.githubusercontent.com/theejkb/theejkb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake" />
-<img src="https://raw.githubusercontent.com/theejkb/theejkb/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" />
-
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 25 August 2026 - To: 01 September 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <br/>
 
