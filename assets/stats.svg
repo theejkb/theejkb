@@ -13,12 +13,12 @@
     <g transform="translate(24, 62)">
       <rect x="0" y="-9" width="9" height="9" rx="2" fill="#bf91f3"/>
       <text class="label" x="30" y="0">Contributions (last 12 months)</text>
-      <text class="value" x="432" y="0" text-anchor="end">2,250</text>
+      <text class="value" x="432" y="0" text-anchor="end">2,251</text>
     </g>
     <g transform="translate(24, 88)">
       <rect x="0" y="-9" width="9" height="9" rx="2" fill="#70a5fd"/>
       <text class="label" x="30" y="0">Commits</text>
-      <text class="value" x="432" y="0" text-anchor="end">2,249</text>
+      <text class="value" x="432" y="0" text-anchor="end">2,250</text>
     </g>
     <g transform="translate(24, 114)">
       <rect x="0" y="-9" width="9" height="9" rx="2" fill="#38bdae"/>
