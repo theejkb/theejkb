@@ -56,17 +56,21 @@ I build **end-to-end TypeScript products**: React / Next.js and Angular front-en
 
 <div align="center">
 
-<a href="https://github.com/theejkb"><img height="165" src="https://github-readme-stats.vercel.app/api?username=theejkb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" /></a>
-<a href="https://github.com/theejkb"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theejkb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></a>
+<img src="https://streak-stats.demolab.com?user=theejkb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="assets/stats.svg" alt="GitHub stats" width="49%" /> <img src="assets/langs.svg" alt="Most used languages" width="49%" />
+
+<br/><br/>
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution calendar" />
+<img src="profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D contribution calendar" />
 
 <img src="https://raw.githubusercontent.com/theejkb/theejkb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake" />
 <img src="https://raw.githubusercontent.com/theejkb/theejkb/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" />
 
 </div>
-
-<br/>
-
-## ⏱️ This week I coded in…
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
