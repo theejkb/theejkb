@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" viewBox="0 0 480 262" role="img" aria-label="GitHub stats for theejkb">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #70a5fd; }
+    .label { font-size: 14px; fill: #c0caf5; }
+    .value { font-size: 14px; font-weight: 700; fill: #c0caf5; }
+    .sub { font-size: 11px; fill: #7982a9; }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="261" rx="10" fill="#1a1b27" stroke="#2b2d42"/>
+  <text class="title" x="24" y="34">Steven's GitHub stats</text>
+  <text class="sub" x="456" y="34" text-anchor="end">updated 2026-09-02</text>
+  
+    <g transform="translate(24, 62)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#bf91f3"/>
+      <text class="label" x="30" y="0">Contributions (last 12 months)</text>
+      <text class="value" x="432" y="0" text-anchor="end">2,250</text>
+    </g>
+    <g transform="translate(24, 88)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#70a5fd"/>
+      <text class="label" x="30" y="0">Commits</text>
+      <text class="value" x="432" y="0" text-anchor="end">2,249</text>
+    </g>
+    <g transform="translate(24, 114)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#38bdae"/>
+      <text class="label" x="30" y="0">Pull requests</text>
+      <text class="value" x="432" y="0" text-anchor="end">0</text>
+    </g>
+    <g transform="translate(24, 140)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#7dcfff"/>
+      <text class="label" x="30" y="0">Code reviews</text>
+      <text class="value" x="432" y="0" text-anchor="end">0</text>
+    </g>
+    <g transform="translate(24, 166)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#ff9e64"/>
+      <text class="label" x="30" y="0">Issues</text>
+      <text class="value" x="432" y="0" text-anchor="end">0</text>
+    </g>
+    <g transform="translate(24, 192)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#e0af68"/>
+      <text class="label" x="30" y="0">Stars earned</text>
+      <text class="value" x="432" y="0" text-anchor="end">7</text>
+    </g>
+    <g transform="translate(24, 218)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#f7768e"/>
+      <text class="label" x="30" y="0">Followers</text>
+      <text class="value" x="432" y="0" text-anchor="end">18</text>
+    </g>
+</svg>

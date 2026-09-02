@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="202" viewBox="0 0 480 202" role="img" aria-label="Most used languages">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #70a5fd; }
+    .label { font-size: 13px; fill: #c0caf5; }
+    .pct { font-size: 13px; fill: #7982a9; }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="201" rx="10" fill="#1a1b27" stroke="#2b2d42"/>
+  <text class="title" x="24" y="34">Most used languages</text>
+  <clipPath id="bar"><rect x="24" y="58" width="432" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="24.0" y="58" width="264.4" height="10" fill="#3178c6"><title>TypeScript</title></rect><rect x="288.4" y="58" width="51.5" height="10" fill="#f1e05a"><title>JavaScript</title></rect><rect x="339.9" y="58" width="45.5" height="10" fill="#663399"><title>CSS</title></rect><rect x="385.4" y="58" width="20.3" height="10" fill="#c6538c"><title>SCSS</title></rect><rect x="405.7" y="58" width="15.3" height="10" fill="#e34c26"><title>HTML</title></rect><rect x="421.0" y="58" width="13.0" height="10" fill="#b07219"><title>Java</title></rect><rect x="434.0" y="58" width="9.6" height="10" fill="#41b883"><title>Vue</title></rect><rect x="443.6" y="58" width="7.2" height="10" fill="#00B4AB"><title>Dart</title></rect></g>
+  <g transform="translate(24, 92)">
+      <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
+      <text class="label" x="20" y="0">TypeScript</text>
+      <text class="pct" x="200" y="0" text-anchor="end">61.2%</text>
+    </g><g transform="translate(240, 92)">
+      <circle cx="6" cy="-4" r="6" fill="#f1e05a"/>
+      <text class="label" x="20" y="0">JavaScript</text>
+      <text class="pct" x="200" y="0" text-anchor="end">11.9%</text>
+    </g><g transform="translate(24, 116)">
+      <circle cx="6" cy="-4" r="6" fill="#663399"/>
+      <text class="label" x="20" y="0">CSS</text>
+      <text class="pct" x="200" y="0" text-anchor="end">10.5%</text>
+    </g><g transform="translate(240, 116)">
+      <circle cx="6" cy="-4" r="6" fill="#c6538c"/>
+      <text class="label" x="20" y="0">SCSS</text>
+      <text class="pct" x="200" y="0" text-anchor="end">4.7%</text>
+    </g><g transform="translate(24, 140)">
+      <circle cx="6" cy="-4" r="6" fill="#e34c26"/>
+      <text class="label" x="20" y="0">HTML</text>
+      <text class="pct" x="200" y="0" text-anchor="end">3.5%</text>
+    </g><g transform="translate(240, 140)">
+      <circle cx="6" cy="-4" r="6" fill="#b07219"/>
+      <text class="label" x="20" y="0">Java</text>
+      <text class="pct" x="200" y="0" text-anchor="end">3.0%</text>
+    </g><g transform="translate(24, 164)">
+      <circle cx="6" cy="-4" r="6" fill="#41b883"/>
+      <text class="label" x="20" y="0">Vue</text>
+      <text class="pct" x="200" y="0" text-anchor="end">2.2%</text>
+    </g><g transform="translate(240, 164)">
+      <circle cx="6" cy="-4" r="6" fill="#00B4AB"/>
+      <text class="label" x="20" y="0">Dart</text>
+      <text class="pct" x="200" y="0" text-anchor="end">1.7%</text>
+    </g>
+</svg>
